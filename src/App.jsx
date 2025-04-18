@@ -1,10 +1,10 @@
 import { useState } from 'react'
 import Navbar from './components/Navbar';
-import Hero from './components/Home';
-import About from './components/Skills';
-import Projects from './components/Services';
-import Contact from './components/Projects';
-import Services from './components/Contact';
+import Home from './components/Home';
+import Skills from './components/Skills';
+import Services from './components/Services';
+import Projects from './components/Projects';
+import Contact from './components/Contact';
 import Footer from './components/Footer';
 import './styles/main.css';
 
