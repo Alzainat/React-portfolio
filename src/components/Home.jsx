@@ -25,7 +25,7 @@ export default function Home() {
         </div>
 
         <a
-          href="cv/Yousef Abu_Alzainat - Full Stack Developer.pdf"
+          href="../../public/cv/Yousef Abu_Alzainat - Full Stack Developer.pdf"
           download="Yousef Abu_Alzainat - Full Stack Developer"
           className="btn"
         >
@@ -34,7 +34,7 @@ export default function Home() {
       </div>
 
       <div className="home-img">
-        <img src="public/images/yousef.jpg" alt="Yousef Alzainat" />
+        <img src="../../public/images/yousef.jpg" alt="Yousef Alzainat" />
       </div>
     </section>
   );

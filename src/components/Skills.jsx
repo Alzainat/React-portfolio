@@ -5,7 +5,7 @@ export default function Skills() {
   return (
     <section className="skills" id="skills">
       <div className="skills-img">
-        <img src="./public/kick.webp" alt="Skills" />
+        <img src="../../public/images/kick.webp" alt="Skills" />
       </div>
 
       <div className="skills-content">
